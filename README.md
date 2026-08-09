@@ -36,4 +36,3 @@ I write about building AI-native products, leading technology organizations, and
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/christoph-feddersen/)
-- [GitHub](https://github.com/cfeddersen)
