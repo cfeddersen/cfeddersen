@@ -1,4 +1,4 @@
-# Hi, I'm Christoph 👋
+# Hi, I'm Chris 👋
 
 ## Building AI-native products, agentic systems, and the organizations around them.
 
