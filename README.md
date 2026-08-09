@@ -4,9 +4,7 @@
 
 I'm an AI product and technology leader with 20+ years of experience building and leading enterprise software.
 
-> **Private products. Public thinking.**
-
-Most of my production and commercial work is private. This profile is where I share the thinking, patterns, reference architectures, and practical lessons that can be useful beyond any one company.
+I believe in open-source projects and products. Much of the production work I lead is commercial and private, but I also contribute to open-source AI projects—including **gbrain** and **gstack**—and value the collaboration and shared progress that open source makes possible.
 
 ## What I'm building
 
@@ -26,9 +24,10 @@ Most of my production and commercial work is private. This profile is where I sh
 
 ## Public work
 
-I'll publish selected playbooks, reference architectures, essays, and tools here as they become ready to share.
+- Contributions to open-source AI projects, including gbrain and gstack
+- Selected playbooks, reference architectures, essays, and tools as they become ready to share
 
-The first substantive project will focus on practical patterns for AI agents across the CPTO value chain.
+The first substantive project here will focus on practical patterns for AI agents across the CPTO value chain.
 
 ## Writing & thinking
 
@@ -36,4 +35,5 @@ I write about building AI-native products, leading technology organizations, and
 
 ## Connect
 
-Find me on [GitHub](https://github.com/cfeddersen). More links to come.
+- [LinkedIn](https://www.linkedin.com/in/christoph-feddersen/)
+- [GitHub](https://github.com/cfeddersen)
